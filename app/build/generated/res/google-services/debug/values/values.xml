@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">526302445021-jode5pou6s1k8h1de8sfc92hjbjte6k0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cst369project.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">526302445021</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrspYRs3Q1lI6zMEiHIhmYj9n3O4m33Xs</string>
+    <string name="google_app_id" translatable="false">1:526302445021:android:f376e5fbb2dd5b42</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrspYRs3Q1lI6zMEiHIhmYj9n3O4m33Xs</string>
+    <string name="google_storage_bucket" translatable="false">cst369project.appspot.com</string>
+    <string name="project_id" translatable="false">cst369project</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapPlotPics</string>
+    <string name="google_maps_api_key">YOUR_API_KEY_NOT_MINE_HERE</string>
+    <string name="mapString">Start Map</string>
+    <string name="launchCamera">Take Photo</string>
+    <string name="hintLocation">Location</string>
+    <string name="descriptHint">Enter a brief description about the photo.</string>
+    <string name="publishPhoto">Publish</string>
+    <string name="loginBtn">Login</string>
+    <string name="hintPassword">Enter Password</string>
+    <string name="loginEmail">Enter Email</string>
+    <string name="emailForTesting">emailForFirebase</string>
+    <string name="passwordfortesting">passwordForEmailWithFirebase</string>
+
+</resources>
